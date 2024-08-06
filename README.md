@@ -6,17 +6,23 @@ This project utilizes Power BI to analyze and visualize bird strike data, aiming
 Key Findings
 
 1.	Frequency Trends:
-    o	Bird strikes have shown an increasing trend over the analyzed years, indicating a growing concern for aviation safety.
-2.	Weather Impact:
+
+  	o	Bird strikes have shown an increasing trend over the analyzed years, indicating a growing concern for aviation safety.
+3.	Weather Impact:
+
     o	The majority of bird strikes occur under clear weather conditions, suggesting higher bird activity and visibility during these times.
-3.	Geographical Hotspots:
-    o	Certain states exhibit higher incidents of bird strikes, highlighting the need for targeted mitigation strategies in these areas.
-4.	Flight Phases:
-    o	The approach and landing phases of flight see the highest number of bird strikes, emphasizing the importance of vigilance during these critical periods.
-5.	Damage and Costs:
-    o	While most bird strikes do not result in damage, a significant number cause financial impact, underscoring the economic implications for airlines.
-6.	Altitude and Warnings:
-    o	Most bird strikes occur at lower altitudes (below 1000 feet), with a considerable portion of incidents happening without prior warnings to pilots, highlighting the need for improved detection and warning systems.
+5.	Geographical Hotspots:
+
+  	o	Certain states exhibit higher incidents of bird strikes, highlighting the need for targeted mitigation strategies in these areas.
+7.	Flight Phases:
+
+  	o	The approach and landing phases of flight see the highest number of bird strikes, emphasizing the importance of vigilance during these critical periods.
+9.	Damage and Costs:
+
+  	o	While most bird strikes do not result in damage, a significant number cause financial impact, underscoring the economic implications for airlines.
+11.	Altitude and Warnings:
+
+   	o	Most bird strikes occur at lower altitudes (below 1000 feet), with a considerable portion of incidents happening without prior warnings to pilots, highlighting the need for improved detection and warning systems.
 
 Conclusion 
 
